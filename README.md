@@ -1,1 +1,1 @@
-# JanhaviK26--Linear-Regression-and-Neural-Network-Regression
+Linear-Regression-and-Neural-Network-Regression
